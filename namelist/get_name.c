@@ -2,7 +2,7 @@
  * get_name.c
  *
  *  Created on: Nov 12, 2012
- *      Author: Or Dahan
+ *      Author: Or Dahan 201644929
  */
 #include <stdio.h>
 
